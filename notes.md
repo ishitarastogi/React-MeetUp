@@ -25,3 +25,4 @@ Here classes is an object, we can define its properties in css file and use them
 ```
 # Outputting Lists
 
+# Reading entered values
